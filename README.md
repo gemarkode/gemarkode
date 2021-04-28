@@ -1,12 +1,10 @@
 ### Halo 👋
 
-Terima kasih untuk partisipasi para developer gemar kode dalam berbagai kegiatan yang diselenggarakan.
+Join Github Gemar Kode, fork repository ini. kemudian isi nama kamu di bawah, dan pull request ke sini.
 
+nama :
 
 - Rizky Tegar
-- Septiyani Putri
-- Farahdiva
 - Ryo
-- Intan Putri Apriliani
-- Tiara
-- Agin mukti
+- Septiyani Putri
+- Farah
