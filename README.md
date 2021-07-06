@@ -1,2 +1,5 @@
-### Halo 👋
+### About Gemar Kode
 
+### Member
+
+ @NoXLaw
