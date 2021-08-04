@@ -1,6 +1,6 @@
 ### About Gemar Kode
 
-Forum Komunitas programmer pengguna Linux. sharing tentang dunia pemrograman, studi kasus, mteri pemrograman, dan pengalaman belajar coding.
+Forum Komunitas programmer pengguna Linux. sharing tentang dunia pemrograman, studi kasus, materi pemrograman, dan pengalaman belajar coding.
 
 ### Member
 
