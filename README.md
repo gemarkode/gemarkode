@@ -27,3 +27,6 @@ Forum Komunitas programmer pengguna Linux. sharing tentang dunia pemrograman, st
 #### all member group
 
 50+ member 
+
+
+<a href="https://gemarkode.or.id/">https://gemarkode.or.id/</a>
